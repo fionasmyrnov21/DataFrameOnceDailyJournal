@@ -1,0 +1,1 @@
+journal,camera,daily,frames,memories,profile,reminder
